@@ -6,7 +6,7 @@ void setup()
   Serial.begin(9600);
 }
 int sensorValue;
-byte dim;
+int dim;
 
 
 void loop()
